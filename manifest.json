@@ -1,0 +1,15 @@
+{
+  "format": "cinder-dictionary-1",
+  "id": "en-wordnet",
+  "version": "3.1-v1",
+  "language": "en",
+  "definitionLanguage": "en",
+  "sourceLabel": "WordNet 3.1",
+  "sourceUrl": "https://wordnet.princeton.edu/",
+  "name": "English",
+  "filename": "en-wordnet-3.1-v1.sqlite",
+  "wordCount": 147478,
+  "bytes": 26976256,
+  "md5": "db13c4f2da0390bcc0d1d0411ee8305a",
+  "sha256": "254b18bc659ae373ea6b54fe25fe76d8f842625c3ec51b69c9b973d2ee8ba04c"
+}
