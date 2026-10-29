@@ -65,3 +65,54 @@ Expected SHA-256:
 Published pack revisions must not be overwritten. Corrections use a new version
 and a new release asset so existing installations can verify their original pack.
 Additional languages require separately reviewed data and source licenses.
+
+
+## Spanish — Wikcionario
+
+[Download the Spanish pack](https://github.com/TrexxyMon/cinder-dictionaries/releases/download/es-wiktionary-2026.10.29-v1/es-wiktionary-2026.10.29-v1.sqlite)
+
+Spanish headwords **and Spanish definitions**, from the Spanish edition of
+Wiktionary (Wikcionario), via Kaikki/Wiktextract. This is not the English-language
+dictionary of Spanish words. Only entries marked Spanish are included.
+
+| Property | Value |
+| --- | --- |
+| Pack ID / version | `es-wiktionary` / `2026.10.29-v1` |
+| Indexed words, including inflected forms | 835,748 |
+| Stored definition groups | 466,139 |
+| Size | 126,771,200 bytes (120.9 MiB) |
+| Format | SQLite, `cinder-dictionary-1` |
+| Data license | CC BY-SA 4.0 |
+
+In Cinder's **Offline Dictionaries** settings, download **Spanish**, enable offline
+dictionaries and select **Spanish** for the built-in dictionary language (or Auto
+with a Spanish-language book). English and Spanish packs can be installed or
+removed independently. Disable **Search Online If Not Found** for offline-only
+lookups. Requires a Cinder version that lists the Spanish pack.
+
+Accents are preserved. Exact headwords are tried first; sentence capitalization
+can fall back to lowercase. Source-defined conjugations/inflections resolve to
+their lemmas. Ambiguous forms can return several lemmas; not every inflection or
+regional word is covered. Audio, pronunciations, translations and quotations are
+not included. Definitions are community-supplied and coverage varies.
+
+Data © Wikcionario contributors, adapted under **CC BY-SA 4.0**. Each definition
+contains its source article URL; the article history credits its authors. Changes:
+Spanish entries selected, whitespace/Unicode normalized, senses and forms indexed
+in SQLite, non-definition fields omitted. This license applies to the dictionary
+data; no Cinder application source is included here.
+
+- [Spanish Wiktionary](https://es.wiktionary.org/)
+- [Kaikki Spanish-edition extract](https://kaikki.org/dictionary/downloads/es/es-extract.jsonl.gz)
+- [Attribution and adaptation notice](packs/es-wiktionary/ATTRIBUTION.txt)
+- [Complete CC BY-SA 4.0 license](LICENSE-CC-BY-SA-4.0.txt)
+- [Spanish pack manifest and source checksum](packs/es-wiktionary/manifest.json)
+
+Keep the attribution and license when redistributing this data. Both are included
+in the pack metadata and in the release assets. Source retrieved 2026-10-29.
+
+Spanish pack SHA-256:
+
+```text
+8c1e69baed3f1161a33da65c4d9a4e151f2cbdf1dd2a23474eb92af21eddfb1e
+```
