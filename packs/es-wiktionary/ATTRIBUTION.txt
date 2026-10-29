@@ -1,0 +1,8 @@
+Spanish dictionary data © Wikcionario contributors. CC BY-SA 4.0.
+Source: https://es.wiktionary.org/ (Spanish edition).
+Extracted by Wiktextract/Kaikki: https://kaikki.org/dictionary/downloads/es/es-extract.jsonl.gz
+Retrieved 2026-10-29. Each definition includes its source article URL; the article history credits its contributors.
+Changes: selected Spanish entries, normalized whitespace/Unicode, indexed senses and conjugations in SQLite. Inflected forms resolve to attested lemmas. Pronunciations, media, translations and quotations are omitted. Coverage depends on the community dictionary.
+This adapted dictionary data is distributed under CC BY-SA 4.0.
+https://creativecommons.org/licenses/by-sa/4.0/
+
