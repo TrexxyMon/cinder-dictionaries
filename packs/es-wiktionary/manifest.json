@@ -1,0 +1,22 @@
+{
+  "format": "cinder-dictionary-1",
+  "id": "es-wiktionary",
+  "version": "2026.10.29-v1",
+  "language": "es",
+  "definitionLanguage": "es",
+  "sourceLabel": "Wikcionario",
+  "sourceUrl": "https://es.wiktionary.org/",
+  "name": "Spanish",
+  "filename": "es-wiktionary-2026.10.29-v1.sqlite",
+  "wordCount": 835748,
+  "headwordCount": 358322,
+  "senseCount": 466139,
+  "aliasCount": 533164,
+  "bytes": 126771200,
+  "md5": "bac8b850093bd0f84683737554f32e9b",
+  "sha256": "8c1e69baed3f1161a33da65c4d9a4e151f2cbdf1dd2a23474eb92af21eddfb1e",
+  "sourceExtract": "https://kaikki.org/dictionary/downloads/es/es-extract.jsonl.gz",
+  "sourceSha256": "9bca1b9e3d4573825f196aff7aaa1a640503430df248f5a82f6602177abf6853",
+  "excludedOtherLanguageRecords": 160972,
+  "licenseId": "CC-BY-SA-4.0"
+}
